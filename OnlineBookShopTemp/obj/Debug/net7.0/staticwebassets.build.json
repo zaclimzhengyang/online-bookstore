@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "uq+TvfKz59V12XX9JK448v2nt7WhcmQPHSUVyY7A/yQ=",
+  "Source": "OnlineBookShopTemp",
+  "BasePath": "_content/OnlineBookShopTemp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnlineBookShopTemp/wwwroot",
+      "Source": "OnlineBookShopTemp",
+      "ContentRoot": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/wwwroot/",
+      "BasePath": "_content/OnlineBookShopTemp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/obj/Debug/net7.0/scopedcss/bundle/OnlineBookShopTemp.styles.css",
+      "SourceId": "OnlineBookShopTemp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/obj/Debug/net7.0/scopedcss/bundle/",
+      "BasePath": "_content/OnlineBookShopTemp",
+      "RelativePath": "OnlineBookShopTemp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/obj/Debug/net7.0/scopedcss/bundle/OnlineBookShopTemp.styles.css"
+    },
+    {
+      "Identity": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/obj/Debug/net7.0/scopedcss/projectbundle/OnlineBookShopTemp.bundle.scp.css",
+      "SourceId": "OnlineBookShopTemp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "BasePath": "_content/OnlineBookShopTemp",
+      "RelativePath": "OnlineBookShopTemp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/obj/Debug/net7.0/scopedcss/projectbundle/OnlineBookShopTemp.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/wwwroot/background.png",
+      "SourceId": "OnlineBookShopTemp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/wwwroot/",
+      "BasePath": "_content/OnlineBookShopTemp",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/background.png"
+    },
+    {
+      "Identity": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/wwwroot/exampleJsInterop.js",
+      "SourceId": "OnlineBookShopTemp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/wwwroot/",
+      "BasePath": "_content/OnlineBookShopTemp",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/exampleJsInterop.js"
+    }
+  ]
+}

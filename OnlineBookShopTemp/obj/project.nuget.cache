@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zv55EGpYA3mql1HIPlr2DIMNpvtg4jH5kjHDMLRRvROei9h9xhOM9zJh/lviIP8os/uY1Lt25+T7tjYs9XMpEw==",
+  "success": true,
+  "projectFilePath": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/OnlineBookShopTemp.csproj",
+  "expectedPackageFiles": [
+    "/Users/limzhengyang/.nuget/packages/microsoft.aspnetcore.authorization/7.0.10/microsoft.aspnetcore.authorization.7.0.10.nupkg.sha512",
+    "/Users/limzhengyang/.nuget/packages/microsoft.aspnetcore.components/7.0.10/microsoft.aspnetcore.components.7.0.10.nupkg.sha512",
+    "/Users/limzhengyang/.nuget/packages/microsoft.aspnetcore.components.analyzers/7.0.10/microsoft.aspnetcore.components.analyzers.7.0.10.nupkg.sha512",
+    "/Users/limzhengyang/.nuget/packages/microsoft.aspnetcore.components.forms/7.0.10/microsoft.aspnetcore.components.forms.7.0.10.nupkg.sha512",
+    "/Users/limzhengyang/.nuget/packages/microsoft.aspnetcore.components.web/7.0.10/microsoft.aspnetcore.components.web.7.0.10.nupkg.sha512",
+    "/Users/limzhengyang/.nuget/packages/microsoft.aspnetcore.metadata/7.0.10/microsoft.aspnetcore.metadata.7.0.10.nupkg.sha512",
+    "/Users/limzhengyang/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/limzhengyang/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/limzhengyang/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "/Users/limzhengyang/.nuget/packages/microsoft.extensions.options/7.0.1/microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "/Users/limzhengyang/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/limzhengyang/.nuget/packages/microsoft.jsinterop/7.0.10/microsoft.jsinterop.7.0.10.nupkg.sha512",
+    "/Users/limzhengyang/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

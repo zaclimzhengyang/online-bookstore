@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/OnlineBookShopTemp1.props" />
+</Project>

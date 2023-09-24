@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/obj/Debug/net7.0/scopedcss/projectbundle/OnlineBookShopTemp.bundle.scp.css",
+      "PackagePath": "staticwebassets/OnlineBookShopTemp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/wwwroot/background.png",
+      "PackagePath": "staticwebassets/background.png"
+    },
+    {
+      "Id": "/Users/limzhengyang/Desktop/online-bookshop/OnlineBookShopTemp/wwwroot/exampleJsInterop.js",
+      "PackagePath": "staticwebassets/exampleJsInterop.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.OnlineBookShopTemp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.OnlineBookShopTemp.props",
+      "PackagePath": "build\\OnlineBookShopTemp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.OnlineBookShopTemp.props",
+      "PackagePath": "buildMultiTargeting\\OnlineBookShopTemp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.OnlineBookShopTemp.props",
+      "PackagePath": "buildTransitive\\OnlineBookShopTemp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
